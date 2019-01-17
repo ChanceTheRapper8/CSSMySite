@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 200%;
+}
+
+h1 {
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+.chancePhoto {
+    height: 200px;
+    width: 200px;
+}
+
+.code1{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.chilli {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.skill-row {
+    line-height: 2;
+    text-align: left;
+    width: 50%;
+    margin: 100px auto;
+}
+
+.a-programmer {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    
+} 
+
+.code-disc {
+    
+}
+
+.chilli-disc {
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.skill-h2 {
+    padding-top: 15px;
+}
+
+hr {
+    border-color: #EAF6F6;
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 6%
+  }
+
+.top-cloud {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0px 20px;
+}
+
+a {
+    color: #11999e;
+    font-family: 'montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#EAF6F6
+}
+
+.butn {
+    -webkit-border-radius: 6;
+    width: 11%;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .butn:hover {
+    background: #9dd8ff;
+    text-decoration: none;
+  }
+
+ .footer-link {
+
+ }
+
+ .copywrite {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+ }
